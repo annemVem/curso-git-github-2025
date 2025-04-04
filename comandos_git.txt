@@ -1,0 +1,5 @@
+Que loucura, hein
+git init -> cria um repo na pasta atual
+git satus -> mostra o status do trabalho de cada arq
+git add nome_arquivo -> adc arq para ser commit
+git commit m "msg" -> faz commit do que estava para ser salvo
