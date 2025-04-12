@@ -1,8 +1,9 @@
 Que loucura, hein
-git init -> cria um repo na pasta atual
-git satus -> mostra o status do trabalho de cada arq
-git add nome_arquivo -> adc arq para ser commit
+git init -> Cria um repo na pasta atual
+git satus -> Mostra o status do trabalho de cada arq
+git add nome_arquivo -> Adc arq para ser commit
 git commit m "msg" -> faz commit do que estava para ser salvo
-git log -> mostra todo o histórico de coomit
+
+git log -> Mostra todo o histórico de coomit
 
 teste alteração.
