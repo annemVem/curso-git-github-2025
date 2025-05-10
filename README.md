@@ -3,3 +3,5 @@
 Realizando o curso do Teo Calvo para minha jornada em Dados.
 
 Curso que comecei do 0 e estou caminhando bem :)
+
+mudando arquivo para teste.
